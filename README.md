@@ -1,10 +1,7 @@
-# Virtual Private Ntework<p align="center">
 </p><img width="1920" height="250" alt="image" src="https://github.com/user-attachments/assets/68add5b2-b26d-4944-a552-d5445abbe3f4" />
-
 
 <h1>VPNs - Setup & Usage</h1>
 This tutorial outlines the prerequisites and installation of the virtual private network along with creating the free Proton account
-
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,14 +13,6 @@ This tutorial outlines the prerequisites and installation of the virtual private
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Enterprise N</b> (22H2)
-
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
