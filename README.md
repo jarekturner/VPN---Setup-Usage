@@ -1,6 +1,6 @@
 # osticket-prereqs<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+</p><img width="230" height="115" alt="image" src="https://github.com/user-attachments/assets/68add5b2-b26d-4944-a552-d5445abbe3f4" />
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the virtual machine along with creating the free Proton account
