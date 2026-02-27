@@ -1,5 +1,5 @@
 # osticket-prereqs<p align="center">
-</p><img width="230" height="115" alt="image" src="https://github.com/user-attachments/assets/68add5b2-b26d-4944-a552-d5445abbe3f4" />
+</p><img width="1920" height="250" alt="image" src="https://github.com/user-attachments/assets/68add5b2-b26d-4944-a552-d5445abbe3f4" />
 
 
 <h1>VPNs - Setup & Usage</h1>
