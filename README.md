@@ -36,24 +36,20 @@ First thing's first, we have to create a storage group using Microsoft Azure. Go
 
 <p><img width="1920" height="1128" alt="Screenshot 2026-02-26 124504" src="https://github.com/user-attachments/assets/eadc0190-e7cd-40bd-a44a-e5deac82634a" />
 
-Once the resource group is created, we'll be creating a Virtual Machine. Go to the Virtual Machine tab to create a virtual machine. 
+Once the resource group is created, we'll be creating a Virtual Machine. Go to the Virtual Machine tab to create a virtual machine. We'll be using this virtual machine to create a free VPN account.
 
-<p>
-<br />
+<p><img width="1920" height="1128" alt="Screenshot 2026-02-26 125401" src="https://github.com/user-attachments/assets/cb0f73d7-628a-445a-bcde-c77596e6fdfd" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+From here, we'll enter the IP address along with the username & password used to create the resource group. Once logged in, we'll be using Windows 10 for the virtual OS.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>  
+<p><img width="1915" height="1125" alt="Screenshot 2026-02-26 130755" src="https://github.com/user-attachments/assets/3eb4ff65-68f4-431d-8c67-fdca04cfde41" />
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Now logged onto the virtual OS, we'll confirm the IP address using www.whatismyipaddress.com. If the IP address is correct, we can then go to Proton VPN to setup our free account. 
+
+<p><img width="1915" height="1125" alt="Screenshot 2026-02-26 133750" src="https://github.com/user-attachments/assets/3b89cad8-d52d-484b-8e26-152dd4776f80" />
+
+At this point we've created the free VPN account and are now connected to the server. Using the free account limits what servers you can use arounf the world.
+
+<p><img width="1915" height="1125" alt="Screenshot 2026-02-26 133819" src="https://github.com/user-attachments/assets/9c5beaf8-15cb-46be-acfa-a7591caf3d76" />
+
+Going back to the IP address website, we can make sure that the Proton IP address is matching on both sites. This is the end of the presentation.
