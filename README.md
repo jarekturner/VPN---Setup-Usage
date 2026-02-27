@@ -36,7 +36,7 @@ First thing's first, we have to create a storage group using Microsoft Azure. Go
 
 <p><img width="1920" height="1128" alt="Screenshot 2026-02-26 124504" src="https://github.com/user-attachments/assets/eadc0190-e7cd-40bd-a44a-e5deac82634a" />
 
-Once the resource group is created, we'll be creating a Virtual Machine. Go to the Virtual Machine tab to create a virtual machine. We'll be using this virtual machine to create a free VPN account.
+Once the resource group is created, we'll be creating a Virtual Machine. Go to the Virtual Machine tab to create a VM. We'll be using this VM to create a free VPN account.
 
 <p><img width="1920" height="1128" alt="Screenshot 2026-02-26 125401" src="https://github.com/user-attachments/assets/cb0f73d7-628a-445a-bcde-c77596e6fdfd" />
 
@@ -48,7 +48,7 @@ Now logged onto the virtual OS, we'll confirm the IP address using www.whatismyi
 
 <p><img width="1915" height="1125" alt="Screenshot 2026-02-26 133750" src="https://github.com/user-attachments/assets/3b89cad8-d52d-484b-8e26-152dd4776f80" />
 
-At this point we've created the free VPN account and are now connected to the server. Using the free account limits what servers you can use arounf the world.
+At this point we've created the free VPN account and are now connected to the server. Using the free account limits what servers you can use around the world.
 
 <p><img width="1915" height="1125" alt="Screenshot 2026-02-26 133819" src="https://github.com/user-attachments/assets/9c5beaf8-15cb-46be-acfa-a7591caf3d76" />
 
